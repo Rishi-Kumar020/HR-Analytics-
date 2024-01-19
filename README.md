@@ -1,4 +1,4 @@
-# HR-Analytics-Rport
+# HR-Analytics-Report
 In this repository, you'll find a comprehensive HR Analytics report developed using Power BI. The report delves into key aspects of human resources, offering valuable insights for informed decision-making and strategic workforce management.
 
 Report Overview: A visually intuitive dashboard presenting crucial HR metrics and key performance indicators.
